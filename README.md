@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @detviler
-- 👀 I’m interested in a wilder set of things, which includes blockchain & neural networks 
-- 🌱 I’m currently learning Mandarin 
-- 💞️ I’m looking to collaborate on #CoinPie
+- 👀 I’m interested in a wilder set of things, which includes blockchain, neural networks & generative AI 
+- 🌱 I’m currently learning French  
+- 💞️ I’m looking to collaborate on #python 
 - 📫 How to reach me detviler8u8@outlook.com
 
 <!---
